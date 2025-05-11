@@ -22,7 +22,7 @@ SHNMS is a Kubernetes-based system that monitors application health using Promet
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/shnms.git
+   git clone [https://github.com/yourusername/shnms.git](https://github.com/jaspreet1388/shnms/blob/3886162b60e08e591c175a0e01c8fe973053b2da/README.md)
    cd shnms
 
 
