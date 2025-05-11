@@ -62,3 +62,6 @@ Use the provided scripts to inject and remove network latency:
 ![image](https://github.com/user-attachments/assets/45f8f87a-7194-44fb-866f-129947f51b8a)
 
 
+# Network Testing
+
+![image](https://github.com/user-attachments/assets/92b136b9-5795-403d-a913-01c9f7ecfb0d)
