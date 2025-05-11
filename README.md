@@ -48,6 +48,9 @@ Use the provided scripts to inject and remove network latency:
 # Inject 800ms latency
 ./scripts/inject_latency.sh
 
+![image](https://github.com/user-attachments/assets/ba34d68c-c74b-4175-b8fe-8fd010f5461f)
+
+
 # Remove latency
 ./scripts/remove_latency.sh
 📄 License
